@@ -18,7 +18,7 @@ A minimalist, self-hosted HTML to Markdown converter web application.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/h2m.git
+git clone https://github.com/jcy321/h2m.git
 cd h2m
 
 # Build and run
@@ -34,7 +34,7 @@ docker-compose up -d
 # curl -fsSL https://bun.sh/install | bash
 
 # Clone and install
-git clone https://github.com/yourusername/h2m.git
+git clone https://github.com/jcy321/h2m.git
 cd h2m
 bun install
 
@@ -173,7 +173,9 @@ PORT=8080 bun run start
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+GNU Affero General Public License v3.0 (AGPL-3.0) - See [LICENSE](LICENSE) for details.
+
+> ⚠️ **Note**: AGPL-3.0 requires that any modifications to this software, even when run as a network service, must be made available to users under the same license.
 
 ## Contributing
 
@@ -185,4 +187,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [jcy321](https://github.com/jcy321)
